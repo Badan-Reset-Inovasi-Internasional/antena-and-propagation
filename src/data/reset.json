@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "satellite-dish",
+    "title": "Navigation radar",
+    "desc": "Developing precise navigation radar systems for maritime and aviation applications."
+  },
+  {
+    "icon": "cloud-sun-rain",
+    "title": "Weather radar",
+    "desc": "Improving weather radar capabilities for accurate climate prediction and monitoring."
+  },
+  {
+    "icon": "fighter-jet",
+    "title": "Air defense radar",
+    "desc": "Designing and analyzing robust air defense radar systems for security."
+  },
+  {
+    "icon": "water",
+    "title": "Tsunami radar",
+    "desc": "Creating early-warning tsunami radar systems for disaster mitigation."
+  },
+  {
+    "icon": "hand-holding-medical",
+    "title": "Medical, disaster, and agricultural antenna applications",
+    "desc": "Applying antenna innovations to provide solutions in the medical, disaster, and agricultural fields."
+  },
+  {
+    "icon": "wave-square",
+    "title": "Advanced techniques such as MIMO, beamforming, and signal processing",
+    "desc": "Exploring advanced techniques to optimize the performance of antennas and communication systems."
+  }
+]

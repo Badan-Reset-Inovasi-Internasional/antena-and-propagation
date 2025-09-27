@@ -1,0 +1,104 @@
+{
+  "member": {
+    "Researcher": [
+      {
+        "name": "Prof. Dr. Ir. Yuyu Wahyu, M.T.",
+        "role": "Transmisi Telekomunikasi",
+        "img": "/memberImage/test.jpg",
+        "scholar": "https://scholar.google.com.my/citations?hl=id&user=Fg8ruD0AAAAJ"
+      },
+      {
+        "name": "Dr. Folin Oktafiani, MT",
+        "role": "Microwave, Antenna and Propagation, Wireless",
+        "img": "/memberImage/Dr. Folin Oktafiani, MT.png",
+        "scholar": "https://scholar.google.com/citations?user=p7ueGXAAAAAJ&hl=en"
+      },
+      {
+        "name": "Prof. Dr. Yana Taryana, MT",
+        "role": "Microwave Device and Materials Science",
+        "img": "/memberImage/Dr. Yana Taryana, M.T..png",
+        "scholar": "https://scholar.google.com/citations?user=fLrRL2YAAAAJ&hl=en"
+      },
+      {
+        "name": "Dr Yohanes Galih Adhiyoga",
+        "role": "MicroStrip Antenna, Magneto-dielectric Material, Telecommunication",
+        "img": "/memberImage/Dr Yohanes Galih Adhiyoga.png",
+        "scholar": "https://scholar.google.com/citations?user=KSpRPCsAAAAJ&hl=en"
+      },
+      {
+        "name": "Yudi Yuliyus Maulana, M.T.",
+        "role": "Microwave",
+        "img": "/memberImage/Yudi Yuliyus Maulana, M.T..png",
+        "scholar": "https://scholar.google.com/citations?user=m9tWQo4AAAAJ&hl=id"
+      },
+      {
+        "name": "Teguh Praludi, M.T (on leave for PhD, UI)",
+        "role": "Antenna, Filter, RF communication",
+        "img": "/memberImage/teguh.jpeg",
+        "scholar": "https://scholar.google.com/citations?hl=id&user=tM5GfyUAAAAJ"
+      },
+      {
+        "name": "Topik Teguh Estu, MT (on leave for PhD, UTM Malaysia)",
+        "role": "communication Transmition",
+        "img": "/memberImage/Topik Teguh Estu, MT.png",
+        "scholar": "https://scholar.google.com/citations?view_op=search_authors&mauthors=topik+teguh+estu&hl=id&oi=ao"
+      },
+      {
+        "name": "Arief Budi Santiko, MT (on leave for PhD, Korea)",
+        "role": "RF Devices, Telecommunication",
+        "img": "/memberImage/Arief Budi Santiko, MT..png",
+        "scholar": "https://scholar.google.com/citations?user=HwaNfngAAAAJ&hl=ena"
+      },
+      {
+        "name": "Yaya Sulaeman, ST (on leave for Master)",
+        "role": "Electronics",
+        "img": "/memberImage/Yaya Sulaeman, ST..png",
+        "scholar": "https://scholar.google.com/citations?view_op=list_works&hl=id&user=qYyYmkoAAAAJ"
+      },
+      {
+        "name": "Bagus Edy Sukoco, ST (on leave for Master)",
+        "role": "communication Transmition",
+        "img": "/memberImage/Bagus Edy Sukoco, ST..png",
+        "scholar": "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=bagus+edi+sukoco&btnG="
+      },
+      {
+        "name": "Yahya Syukri Amrullah, ST",
+        "role": "Antenna, Electomagnetic Propagation",
+        "img": "/memberImage/Yahya Syukri Amrullah, ST..png",
+        "scholar": "https://scholar.google.com/citations?user=K1QkrioAAAAJ&hl=id"
+      },
+      {
+        "name": "Rizky Rahmatullah, M.Eng.",
+        "role": "Antenna, Wireless Sensor Network, Internet Of Things, Radar",
+        "img": "/memberImage/rizky.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=v_BNQdYAAAAJ&hl=en"
+      },
+      {
+        "name": "B. Berlian Surya Wicasana, ST (on leave for Master, UI)",
+        "role": "Telecommunication",
+        "img": "/memberImage/B. Berlian Surya Wicasana, ST..png",
+        "scholar": "https://scholar.google.com/citations?user=AAcZ1WgAAAAJ&hl=id"
+      },
+      {
+        "name": "Riyani Jana Yanti, MT",
+        "role": "Antenna, Radar, Phased Array",
+        "img": "/memberImage/Riyani Jana Yanti, ST..png",
+        "scholar": "https://scholar.google.com/citations?user=Z5EnxXIAAAAJ&hl=id"
+      },
+      {
+        "name": "Suisbiyanto Prasetya, MT",
+        "role": "Antenna, Radar, Telecommunication",
+        "img": "/memberImage/Suisbiyanto Prasetya, ST..png",
+        "scholar": "https://scholar.google.com/citations?user=81uEmgMAAAAJ&hl=en"
+      }
+    ],
+    "Post Doctoral Researchers": [
+      {
+        "name": "Tjahjo Adiprabowo, PhD",
+        "role": "Telecommunication Engineering",
+        "img": "/visittingResearch/Tjahjo Adiprabowo.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=Hqk_cugAAAAJ&hl=en"
+      }
+    ]
+  }
+}

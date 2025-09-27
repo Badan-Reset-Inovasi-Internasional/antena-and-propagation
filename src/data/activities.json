@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Special Antenna Design",
+    "desc": "Design and development of antennas with specific characteristics for information technology applications.",
+    "img": "/kegiatan/gambarlab3.jpeg"
+  },
+  {
+    "title": "Wireless and Radar Applications",
+    "desc": "Utilization of antennas for wireless communication, radar, satellite, and imaging systems as both transmitters and receivers.",
+    "img": "/kegiatan/gambarlab1.jpeg"
+  },
+  {
+    "title": "Experimental Testing",
+    "desc": "Experimental testing to optimize antenna performance.",
+    "img": "/kegiatan/gambarlab2.jpeg"
+  },
+  {
+    "title": "Modern Antenna Technologies",
+    "desc": "Developing modern antenna and propagation technologies to enhance the speed, capacity, and reliability of wireless networks.",
+    "img": "/kegiatan/gambarlab4.jpeg"
+  }
+]
